@@ -1,0 +1,107 @@
+html {
+  font-family: "Roboto", sans-serif;
+  padding: ;
+}
+
+nav {
+  height: 40px;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 5px;
+  display: inline-block;
+}
+
+.headline {
+  height: 400px;
+  background-image: url("img/banner.jpg");
+}
+
+.headline h1 {
+  margin: 0 20%;
+  padding-top: 100px;
+  width: 250px;
+  height: 250px;
+  font-size: 60px;
+  color: white;
+}
+
+.B {
+  color: #ffe964;
+}
+
+.I {
+  color: #ff523d;
+}
+
+.K {
+  color: #223c88;
+}
+
+h2 {
+  text-transform: lowercase;
+  font-size: 30px;
+}
+
+.underline {
+  height: 5px;
+  width: 350px;
+  background-color: white;
+  margin: -20px 20% 0 20%;
+}
+
+.mission {
+  background-color: #f8eca7;
+}
+
+.contact {
+  background-color: #223c88;
+  color: white;
+}
+
+.team {
+  background-color: #ff523d;
+  color: white;
+}
+
+.mission__heading {
+  text-align: center;
+}
+
+.mission p {
+  text-align: center;
+}
+
+article {
+  padding: 30px 20%;
+}
+
+span img {
+  width: 20%;
+  padding: 0 40%;
+}
+
+.team span {
+  text-align: center;
+}
+
+.team p {
+  margin-bottom: 40px;
+  margin-top: -10px;
+  font-weight: lighter;
+  font-size: 0.8em;
+}
+
+.contact span {
+  display: block;
+  font-weight: lighter;
+}
+
+h5 {
+  margin-bottom: 3px;
+}
